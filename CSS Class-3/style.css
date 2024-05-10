@@ -1,0 +1,26 @@
+* {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.heading{
+    /* color: rgb(200,100,100); */
+    color:darkorange;
+    /* text-align: left; */
+    /* text-align: right; */
+    text-align: center;
+    text-decoration: underline;
+    /* text-decoration: line-through; */
+    /* text-decoration: wavy; */
+    /* text-decoration: overline; */
+    /* font-size: larger; */
+    text-transform: lowercase;
+    /* text-transform: uppercase; */
+    font-size: 40px;
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;   
+}
+p{
+    line-height: 30px;
+}

@@ -1,0 +1,10 @@
+how to generate a boiler plate code in HTML?
+shift+!
+Tags:
+<> </> tags
+<> opening tags
+</> closing tags
+
+Heading tags:- h1--------h6 tags
+p tag (paragraph tag)
+<p> </p> lorem and enter

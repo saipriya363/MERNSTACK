@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#heading{
+    color:blue;
+}
+#profile{
+    width:200px;
+    height:200px;
+    border-radius:50%;
+}
+#paragraph{
+    color:blanchedalmond;
+    background-color:brown;
+}
+
+.name {
+    color:black;
+}
